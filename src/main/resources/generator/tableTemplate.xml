@@ -1,0 +1,5 @@
+<table tableName="{0}" domainObjectName="{1}"
+       enableCountByExample="true" enableUpdateByExample="true"
+       enableDeleteByExample="true" enableSelectByExample="true"
+       selectByExampleQueryId="true">
+</table>

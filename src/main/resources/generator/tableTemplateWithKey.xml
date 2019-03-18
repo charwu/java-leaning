@@ -1,0 +1,6 @@
+<table tableName="{0}" domainObjectName="{1}"
+       enableCountByExample="true" enableUpdateByExample="true"
+       enableDeleteByExample="true" enableSelectByExample="true"
+       selectByExampleQueryId="true">
+    <generatedKey column="{2}" sqlStatement="MySql" identity="true" />
+</table>
